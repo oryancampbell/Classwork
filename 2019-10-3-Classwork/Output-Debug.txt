@@ -1,0 +1,19 @@
+﻿'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Users\ocampbell\Desktop\2019-10-3-Classwork\Debug\2019-10-3-Classwork.exe'. Symbols loaded.
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x6f58 has exited with code 0 (0x0).
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'2019-10-3-Classwork.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x8224 has exited with code 0 (0x0).
+The thread 0x1f30 has exited with code 0 (0x0).
+The thread 0x6b60 has exited with code 0 (0x0).
+The program '[32788] 2019-10-3-Classwork.exe' has exited with code 0 (0x0).

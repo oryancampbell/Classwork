@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: 2019-10-3-Classwork, Configuration: Debug Win32 ------
+1>Maine.cpp
+1>2019-10-3-Classwork.vcxproj -> C:\Users\ocampbell\Desktop\2019-10-3-Classwork\Debug\2019-10-3-Classwork.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
